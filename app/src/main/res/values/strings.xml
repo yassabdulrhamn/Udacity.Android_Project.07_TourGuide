@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paris Guide</string>
+    <string name="Sightseeing">Sightseeing</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="Kids">Kids</string>
+    <string name="Malls">Malls</string>
+    <string name="sometext">Some Text</string>
+</resources>
